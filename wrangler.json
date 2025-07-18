@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "proxy-rotater-equinox-v3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1d1bb524-7f98-485e-94c4-2a33ccd73b2a",
+      "database_name": "equinox-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
