@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "proxy-rotater-equinox-v3",
+  "name": "hop-4",
   "upload_source_maps": true,
   "d1_databases": [
     {
